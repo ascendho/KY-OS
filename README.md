@@ -2,6 +2,16 @@
 typora-copy-images-to: ./img
 ---
 
+## 文件说明 Clarification
+
+- **Lab**: 包含基础实验和进阶实验的源码、思考题解答和幻灯片
+
+- **MindMap**: 主教材各章节思维导图
+
+------
+
+
+
 ## 参考书目 Bibliography
 
 |              教材              |                        作者                         |                             图示                             |                           资源链接                           |
@@ -11,7 +21,18 @@ typora-copy-images-to: ./img
 |     计算机操作系统实验指导     |                       王红玲                        |   ![计算机操作系统实验指导](img/211146b8bcdbf6e13e9d.jpeg)   | <a href="https://www.ryjiaoyu.com/book/details/44907">人邮教育</a> |
 |          操作系统导论          | Remzi H. Arpaci-Dusseau<br>Andrea C. Arpaci-Dusseau | ![img](img/51rSSmdEUlL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg) | <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a>  |
 
-**注**：**《操作系统导论》**的作者将其英文原版教材分章节**免费开源**了，可点击表格中的资源链接获取
+**注**：《操作系统导论》的作者将其英文原版教材分章节**免费开源**了，可点击表格中的资源链接获取
+
+------
+
+
+
+## 声明 Disclaimer
+
+- 该项目**仅用于学习交流**，凡是可能涉及到的版权问题，归**教材原作者所有**
+- 本人所贡献的部分，遵从`MIT`协议
+
+最后，如果你认为这个项目帮助到了你，不妨给个star✨!
 
 ------
 
