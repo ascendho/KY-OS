@@ -8,6 +8,8 @@ typora-copy-images-to: ./img
 
 - **MindMap**: 主教材各章节思维导图
 
+- **Notes**: 笔记内容主要截取自开源书籍<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three Easy Pieces</a>
+
 ------
 
 
