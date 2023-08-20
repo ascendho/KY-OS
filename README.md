@@ -14,12 +14,12 @@ typora-copy-images-to: ./img
 
 
 
-## 目录
+## 目录 Contents
 
 |                           基础实验                           |             进阶实验             |
 | :----------------------------------------------------------: | :------------------------------: |
-|                      Linux常用命令使用                       |          编译Linux内核           |
-| <a href="Lab\ElementaryLab\ProgramCinLinux">Linux下C程序编写</a> |         添加一个系统调用         |
+| <a href="Lab\ElementaryLab\2.1-UsageOfLinuxcommands">Linux常用命令使用</a> |          编译Linux内核           |
+| <a href="Lab\ElementaryLab\2.2-ProgramCinLinux">Linux下C程序编写</a> |         添加一个系统调用         |
 |                           进程创建                           |         统计系统缺页次数         |
 |                      进程调度算法的模拟                      |     统计一段时间内的缺页次数     |
 |                      两个进程间相互通信                      |      编写一个简单的内核模块      |
@@ -27,6 +27,10 @@ typora-copy-images-to: ./img
 |                    动态分区分配方式的模拟                    |       设计一个简单文件系统       |
 |                      页面置换算法的模拟                      |       编写字符设备驱动程序       |
 |                         文件备份实验                         |        编写块设备驱动程序        |
+
+**实验环境**：
+
+Ubuntu 20.04.4 LTS
 
 ------
 
