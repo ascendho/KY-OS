@@ -21,7 +21,7 @@ typora-copy-images-to: ./img
 | <a href="Lab\ElementaryLab\2.1-UsageOfLinuxcommands">Linux常用命令使用</a> |          编译Linux内核           |
 | <a href="Lab\ElementaryLab\2.2-ProgramCinLinux">Linux下C程序编写</a> |         添加一个系统调用         |
 | <a href="Lab\ElementaryLab\3.1-ProcessCreation">进程的创建</a> |         统计系统缺页次数         |
-|                      进程调度算法的模拟                      |     统计一段时间内的缺页次数     |
+| <a href="Lab/ElementaryLab/3.2-Schedule">进程调度算法的模拟</a> |     统计一段时间内的缺页次数     |
 |                      两个进程间相互通信                      |      编写一个简单的内核模块      |
 |                         进程同步实验                         | 利用内核模块创建一个设备文件节点 |
 |                    动态分区分配方式的模拟                    |       设计一个简单文件系统       |
