@@ -1,0 +1,9 @@
+#!/bin/bash
+/sbin/losetup -d /dev/loop2
+/sbin/losetup /dev/loop2 $1
+/sbin/mkfs.ext2 /dev/loop2
+dd if=/dev/loop2 of=./tmpfs bs=1k count=2
+./changeMN $1 ./tmpfs
+dd if=./fs.new of=/dev/loop2 
+/sbin/losetup -d /dev/loop2
+rm -f ./tmpfs

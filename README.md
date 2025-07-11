@@ -4,17 +4,10 @@ typora-copy-images-to: ./img
 
 ## 文件说明 
 
-- Lab: 包含基础实验和进阶实验的源码、思考题解答和幻灯片
-
-- MindMap: 主教材各章节思维导图
-
-------
+- Lab: 包含基础实验和进阶实验的源码
+- Supplement：实验思考题解答、幻灯片、主教材各章节思维导图以及部分考研真题及答案
 
 
-
-## 实验(待更新) 
-
-- 基础实验：<a href="Lab\ElementaryLab\2.1-UsageOfLinuxcommands">Linux常用命令使用</a>、<a href="Lab\ElementaryLab\2.2-ProgramCinLinux">Linux下C程序编写</a>、<a href="Lab\ElementaryLab\3.1-ProcessCreation">进程的创建</a>、<a href="Lab/ElementaryLab/3.2-Schedule">进程调度算法的模拟</a>
 
 **运行环境**：
 
@@ -39,7 +32,7 @@ Ubuntu 20.04.4 LTS
 ## 声明 Disclaimer
 
 - 该项目**仅用于学习交流**，凡是可能涉及到的版权问题，归**教材原作者所有**
-- 本人所贡献的部分，遵从`MIT`协议
+- **本人所贡献**的部分，遵从`MIT`协议
 
 最后，如果你认为这个项目帮助到了你，不妨给个star✨!
 

@@ -1,0 +1,14 @@
+NO.1:B win
+NO.2:B win
+NO.3:B win
+NO.4:end in a draw
+NO.5:B win
+NO.6:end in a draw
+NO.7:end in a draw
+NO.8:B win
+NO.9:end in a draw
+NO.10:B win
+
+The final result is A win:0s 
+B win:6s 
+end in a draw 4s
